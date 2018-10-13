@@ -1,4 +1,7 @@
 # oracledb-ansible
+
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/oracledb-ansible.svg)](https://www.guardrails.io)
+
 <!-- Piwik Image Tracker -->
 <noscript>
 <img src="http://www.link.net.gr/piwik/piwik.php?idsite=1&rec=1" style="border:0" alt="" />
